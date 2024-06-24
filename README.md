@@ -4,6 +4,7 @@ CREATE TABLE Product (
     price_per_unit DOUBLE,
     active_for_sell BOOLEAN
 );
+
 import java.sql.*;
 
 public class ProductListing {
